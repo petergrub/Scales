@@ -1,4 +1,4 @@
-﻿#pragma strict
+#pragma strict
 var bullet : Rigidbody;
 
 var power : float = 1500;
